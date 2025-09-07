@@ -1,4 +1,5 @@
 # 🍕 Landing Page Pizzaria Napoli
+https://paginapizzarianatali.netlify.app/
 
 Uma landing page moderna para pizzaria, desenvolvida com **HTML, CSS e JavaScript**, focada em design atrativo, responsividade e experiência do usuário.  
 Projeto criado para apresentar cardápio, promoções, contato e incentivar pedidos ou reservas.  
